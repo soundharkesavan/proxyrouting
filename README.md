@@ -30,4 +30,5 @@ This script is provided under the MIT License. Feel free to modify and use it as
 - Python 3.x
 - Required Python libraries: `requests`
 Install the required library using pip:
-```bash pip install requestes
+```bash
+pip install requestes
