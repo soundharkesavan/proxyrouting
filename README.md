@@ -26,13 +26,10 @@ The number of threads used for proxy validation can be adjusted by changing the 
 License
 This script is provided under the MIT License. Feel free to modify and use it as needed.
 
-
-
-
 ## Requirements
 
 - Python 3.x
 - Required Python libraries: `requests`
-
 Install the required library using pip:
-```bash pip install requests
+```bash
+pip install requests
